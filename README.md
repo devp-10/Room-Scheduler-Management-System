@@ -16,8 +16,3 @@ In this project, I developed a room scheduling application (GUI and database dri
 
 ### Functions/Methods implemented:
 * 
-
-### References:
-* This project is inspired from a Youtuber named [Ken Jee](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg)
-* Article for [scraping jobs from Glassdoor.com](https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905)
-* Article for [deploying ML models to cloud](https://towardsdatascience.com/simple-way-to-deploy-machine-learning-models-to-cloud-fd58b771fdcf)
